@@ -301,9 +301,9 @@
 
 **国内大佬**
 
-1、剖析Linux内核内存管理(一)-----[百度网盘：css1](https://pan.baidu.com/s/1CNd1FPcTQjLZMXXHdnfJFA)<br>
+1、剖析Linux内核内存管理(一)-----[百度网盘：h98a](https://pan.baidu.com/s/1CgGSFHb80uKWspaCVoaSRw?pwd=h98a)<br>
 
-2、剖析linux内核内存管理(二)-----[百度网盘：3fxd](https://pan.baidu.com/s/1_m7RvBAubBqqc4NmC4O74w)<br>
+2、剖析linux内核内存管理(二)-----[百度网盘：syz3](https://pan.baidu.com/s/17y8Lil2VJNDHa7nQTe5JbQ?pwd=syz3)<br>
 
 3、剖析Linux内核MMU详解-----[百度网盘：ees3](https://pan.baidu.com/s/1fBbZ2SV8x-Pn8LMLiHSGRg)<br>
 
